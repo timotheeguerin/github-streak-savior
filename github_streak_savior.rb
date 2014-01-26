@@ -1,8 +1,8 @@
 require 'yaml'
 require 'open-uri'
-
+require 'openssl'
 class GithubStreakSavior
-
+  OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
 
   def self.config
     @config ||= YAML::load(File.open('config.yml'))
@@ -12,7 +12,6 @@ class GithubStreakSavior
 
   def self.get_commit_today
     url = "https://github.com/users/#{config['username']}/contributions_calendar_data"
-    puts url
     response = URI.parse(url).read
     contributions = eval(response)
     contributions.last[1]
