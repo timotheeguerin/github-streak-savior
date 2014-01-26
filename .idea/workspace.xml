@@ -2,79 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df95e47c-3b5b-4784-ba05-d2b8fed5339c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Timothee.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github_streak_savior.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.rb" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\Gemfile.lock" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\README.rdoc" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\app\assets\images\.keep" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\app\assets\javascripts\application.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\app\assets\stylesheets\application.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\app\controllers\application_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\app\controllers\concerns\.keep" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\app\helpers\application_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\app\mailers\.keep" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\app\models\.keep" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\app\models\concerns\.keep" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\app\views\layouts\application.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\bin\bundle" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\bin\rails" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\bin\rake" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\config.ru" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\config\application.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\config\boot.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\config\database.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\config\environment.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\config\environments\development.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\config\environments\production.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\config\environments\test.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\config\initializers\backtrace_silencers.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\config\initializers\filter_parameter_logging.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\config\initializers\inflections.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\config\initializers\mime_types.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\config\initializers\secret_token.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\config\initializers\session_store.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\config\initializers\wrap_parameters.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\config\locales\en.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\config\routes.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\db\schema.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\db\seeds.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\lib\assets\.keep" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\lib\tasks\.keep" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\log\.keep" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\log\development.log" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\public\404.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\public\422.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\public\500.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\public\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\public\robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\test\controllers\.keep" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\test\fixtures\.keep" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\test\helpers\.keep" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\test\integration\.keep" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\test\mailers\.keep" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\test\models\.keep" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\test\test_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\vendor\assets\javascripts\.keep" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\ws\ruby\github-streak-savior\vendor\assets\stylesheets\.keep" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/github-streak-savior.iml" afterPath="$PROJECT_DIR$/.idea/github-streak-savior.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/github_streak_savior.rb" afterPath="$PROJECT_DIR$/github_streak_savior.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.rb" afterPath="$PROJECT_DIR$/test.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="github-streak-savior.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/database.yml" changelist="df95e47c-3b5b-4784-ba05-d2b8fed5339c" time="1390761520950" ignored="false" />
-    <file path="/Dummy.txt" changelist="df95e47c-3b5b-4784-ba05-d2b8fed5339c" time="1390768651480" ignored="false" />
+    <file path="/Dummy.txt" changelist="df95e47c-3b5b-4784-ba05-d2b8fed5339c" time="1390772248938" ignored="false" />
     <file path="/Gemfile" changelist="df95e47c-3b5b-4784-ba05-d2b8fed5339c" time="1390767229997" ignored="false" />
     <file path="/github-streak-savior.rb" changelist="df95e47c-3b5b-4784-ba05-d2b8fed5339c" time="1390768622469" ignored="false" />
-    <file path="/github_streak_savior.rb" changelist="df95e47c-3b5b-4784-ba05-d2b8fed5339c" time="1390768960181" ignored="false" />
+    <file path="/github_streak_savior.rb" changelist="df95e47c-3b5b-4784-ba05-d2b8fed5339c" time="1390773267011" ignored="false" />
     <file path="/config.rb" changelist="df95e47c-3b5b-4784-ba05-d2b8fed5339c" time="1390768903583" ignored="false" />
-    <file path="/test.rb" changelist="df95e47c-3b5b-4784-ba05-d2b8fed5339c" time="1390768796555" ignored="false" />
+    <file path="/test.rb" changelist="df95e47c-3b5b-4784-ba05-d2b8fed5339c" time="1390772621399" ignored="false" />
     <file path="/temp.rb" changelist="df95e47c-3b5b-4784-ba05-d2b8fed5339c" time="1390768922022" ignored="false" />
+    <file path="C:/lib/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/remote_fetcher.rb" changelist="df95e47c-3b5b-4784-ba05-d2b8fed5339c" time="1390770282902" ignored="false" />
+    <file path="/config.yml" changelist="df95e47c-3b5b-4784-ba05-d2b8fed5339c" time="1390773282581" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,10 +37,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="github_streak_savior.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="github_streak_savior.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/github_streak_savior.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
+            <state line="21" column="24" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -106,16 +49,16 @@
       <file leaf-file-name="test.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="16" selection-start="0" selection-end="16" vertical-scroll-proportion="0.0">
+            <state line="1" column="13" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.yml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="config.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
+            <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -142,10 +85,10 @@
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/github-streak-savior.rb" />
-        <option value="$PROJECT_DIR$/test.rb" />
         <option value="$PROJECT_DIR$/config.rb" />
-        <option value="$PROJECT_DIR$/config.yml" />
+        <option value="$PROJECT_DIR$/test.rb" />
         <option value="$PROJECT_DIR$/github_streak_savior.rb" />
+        <option value="$PROJECT_DIR$/config.yml" />
       </list>
     </option>
   </component>
@@ -181,8 +124,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="RailsProjectView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,12 +151,12 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Rails.Development: github-streak-savior">
     <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
@@ -448,6 +391,11 @@
       <created>1390761475538</created>
       <updated>1390761475538</updated>
     </task>
+    <task id="LOCAL-00001" summary="ad">
+      <created>1390768977776</created>
+      <updated>1390768977776</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -456,10 +404,9 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25453576" sideWeight="0.670247" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26254" sideWeight="0.670247" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -468,6 +415,8 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -515,7 +464,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="ad" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -529,11 +478,75 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="ad" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/github_streak_savior.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="36" selection-start="217" selection-end="237" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="16" selection-start="0" selection-end="16" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github_streak_savior.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="36" selection-start="217" selection-end="237" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="16" selection-start="0" selection-end="16" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github_streak_savior.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="16" selection-start="0" selection-end="16" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/github_streak_savior.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -557,21 +570,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="16" selection-start="0" selection-end="16" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
+        <state line="1" column="13" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/github_streak_savior.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
+        <state line="21" column="24" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
